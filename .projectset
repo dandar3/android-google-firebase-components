@@ -2,6 +2,7 @@
 <psf version="2.0">
 <provider id="org.eclipse.team.svn.core.svnnature">
 <project reference="1.0.1,https://github.com/dandar3/android-androidx-annotation/tags/1.1.0,androidx-annotation,d028f992260e001a1b1dfe4aa2406e54;https://github.com/dandar3/android-androidx-annotation;https://github.com/dandar3/android-androidx-annotation;branches;tags;trunk;true;e8e6a675-c408-9bdb-a2e5-ce57b7db7bff;https://github.com/dandar3/android-androidx-annotation;;false;;;0"/>
-<project reference="1.0.1,https://github.com/dandar3/android-google-firebase-components/tags/16.0.1,google-firebase-components,b06198a98488001d19c5f602593e4901;https://github.com/dandar3/android-google-firebase-components;https://github.com/dandar3/android-google-firebase-components;branches;tags;trunk;true;a338602e-2536-c7de-f9fb-ce57b7db7bff;https://github.com/dandar3/android-google-firebase-components;;false;;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-google-firebase-annotations/tags/16.0.0,google-firebase-annotations,20544a3bf788001d1e56b2fe26413c94;https://github.com/dandar3/android-google-firebase-annotations;https://github.com/dandar3/android-google-firebase-annotations;branches;tags;trunk;true;f19b4ced-7b11-135b-3c9f-ce57b7db7bff;https://github.com/dandar3/android-google-firebase-annotations;;false;;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-google-firebase-components/tags/16.1.0,google-firebase-components,b06198a98488001d19c5f602593e4901;https://github.com/dandar3/android-google-firebase-components;https://github.com/dandar3/android-google-firebase-components;branches;tags;trunk;true;a338602e-2536-c7de-f9fb-ce57b7db7bff;https://github.com/dandar3/android-google-firebase-components;;false;;;0"/>
 </provider>
 </psf>
